@@ -1,0 +1,6 @@
+# 1.-Unknown (Light Pink) 
+unknown: S.F.sup._ S.F.median._ S.F.polaire.tr._ S.F.inter._ S.F.inf._ S.F.inf.ant._ S.F.marginal._ S.F.orbitaire._ S.Or._ S.Olf._ S.Pe.C.median._ S.Pe.C.marginal._ S.Pe.C.sup._ S.Pe.C.inter._ S.Pe.C.inf._ S.C.LPC._ S.p.C._ S.F.int._ S.R.inf._ F.C.L.a._ F.C.L.r.diag._ F.C.L.r.ant._ F.C.L.r.asc._ S.Pa.int._ S.s.P._ S.Pa.t._ F.I.P.r.int.1_ F.I.P.r.int.2_ F.I.P._ F.I.P.Po.C.inf._ S.Po.C.sup._ S.Pa.sup._ S.GSM._ F.C.L.r.retroC.tr._ S.Rh._ S.O.T.lat.ant._ S.O.T.lat.int._ S.T.pol._ S.T.i.ant._ S.O.T.lat.med._ S.O.T.lat.post._ S.T.i.post._ F.Coll._ S.T.s._ S.T.s.ter.asc.ant._ S.T.s.ter.asc.post._ OCCIPITAL_ S.Cu._ S.Li._ S.Li.ant._ S.Li.post._ S.O.p._ F.C.M.ant._ F.C.M.post._ F.C.M.r.AMS.ant._ S.R.sup._ F.C.L.p._ F.P.O._ F.Cal.ant.-Sc.Cal._ S.C.sylvian._ S.Call._ F.C.L.r.sc.post._ F.C.L.r.sc.ant._ INSULA_ ventricle_
+
+# 2.-CentralSulcus-Central Sulcus (Red)
+S.C._: S.C._ 
+
