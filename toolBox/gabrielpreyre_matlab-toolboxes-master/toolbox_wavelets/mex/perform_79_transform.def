@@ -1,3 +1,0 @@
-LIBRARY perform_79_transform.dll
-EXPORTS
-	mexFunction
